@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.footer {
+    width: 100%;
+    text-align: center;
+    color: black;
+    padding: 0 30px;
+    background-color: rgb(0,69,66);
+    background: radial-gradient(circle, rgba(0,69,66,1) 0%, rgba(0,103,88,1) 50%, rgba(0,69,66,1) 100%);
+}
+
+.footer a {
+    text-decoration: none;
+    color: #6ee7b7;
+}
